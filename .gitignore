@@ -5,6 +5,9 @@
 project.lock.json
 .DS_Store
 *.pyc
+*.lock
+*.vsidx
+*.config
 
 # Visual Studio Code
 .vscode
